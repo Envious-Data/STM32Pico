@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name 2.54mmheadercastelation)(type KiCad)(uri ${KIPRJMOD}/Resources/2.54mmheadercastelation.pretty)(options "")(descr ""))
+  (lib (name HRO-TYPE-C31-M-12)(type KiCad)(uri ${KIPRJMOD}/Resources/HRO-TYPE-C31-M-12.pretty)(options "")(descr ""))
+)

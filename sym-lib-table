@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name Type-C)(type Legacy)(uri ${KIPRJMOD}/Resources/HRO-TYPE-C31-M-12.pretty/Type-C.lib)(options "")(descr ""))
+  (lib (name VSYS)(type Legacy)(uri ${KIPRJMOD}/Resources/VSYS.lib)(options "")(descr ""))
+)
