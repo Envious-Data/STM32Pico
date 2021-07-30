@@ -938,36 +938,4 @@ Text GLabel 3500 9950 2    50   Input ~ 0
 PA15
 Text GLabel 3500 9250 2    50   Input ~ 0
 PA8
-Text GLabel 6550 5700 0    50   Input ~ 0
-PA12
-Text GLabel 6550 5600 0    50   Input ~ 0
-PA11
-Text GLabel 6550 4200 0    50   Input ~ 0
-PA0
-Text GLabel 6550 4300 0    50   Input ~ 0
-PA1
-Text GLabel 6550 4500 0    50   Input ~ 0
-PA2
-Text GLabel 6550 4600 0    50   Input ~ 0
-PA3
-Text GLabel 6550 4700 0    50   Input ~ 0
-PA4
-Text GLabel 6550 4800 0    50   Input ~ 0
-PA5
-Text GLabel 6550 5000 0    50   Input ~ 0
-PA6
-Text GLabel 6550 5100 0    50   Input ~ 0
-PA7
-Text GLabel 6550 5300 0    50   Input ~ 0
-PA9
-Text GLabel 6550 5500 0    50   Input ~ 0
-PA10
-Text GLabel 6550 5800 0    50   Input ~ 0
-PA13
-Text GLabel 6550 6000 0    50   Input ~ 0
-PA14
-Text GLabel 6550 6100 0    50   Input ~ 0
-PA15
-Text GLabel 6550 5200 0    50   Input ~ 0
-PA8
 $EndSCHEMATC
