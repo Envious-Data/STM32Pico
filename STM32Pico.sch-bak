@@ -978,17 +978,8 @@ F 3 "" H 3200 1500 50  0001 C CNN
 $EndComp
 Text GLabel 3500 1500 2    50   Input ~ 0
 VSYS
-$Comp
-L power:VBUS #PWR?
-U 1 1 6117FC90
-P 3650 1950
-F 0 "#PWR?" H 3650 1800 50  0001 C CNN
-F 1 "VBUS" V 3665 2077 50  0000 L CNN
-F 2 "" H 3650 1950 50  0001 C CNN
-F 3 "" H 3650 1950 50  0001 C CNN
-	1    3650 1950
-	0    -1   -1   0   
-$EndComp
 Text GLabel 6400 7050 0    50   Input ~ 0
+VSYS
+Text GLabel 3650 1950 0    50   Input ~ 0
 VSYS
 $EndSCHEMATC
