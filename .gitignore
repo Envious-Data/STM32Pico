@@ -23,3 +23,5 @@ _autosave-*
 # Exported BOM files
 *.xml
 *.csv
+!STM32Pico_bom_jlc.csv
+!STM32Pico_cpl_jlc.csv
