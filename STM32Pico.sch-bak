@@ -885,15 +885,15 @@ PA9
 Text GLabel 3500 9450 2    50   Input ~ 0
 PA10
 Text GLabel 3500 9750 2    50   Input ~ 0
-PA13
+PA13-SWDIO
 Text GLabel 3500 9850 2    50   Input ~ 0
-PA14
+PA14-SWCLK
 Text GLabel 3500 9950 2    50   Input ~ 0
 PA15
 Text GLabel 3500 9250 2    50   Input ~ 0
 PA8
 Text GLabel 5400 8750 0    50   Input ~ 0
-PA14
+PA14-SWCLK
 Text GLabel 5400 8550 0    50   Input ~ 0
 PA15
 Text GLabel 5400 8450 0    50   Input ~ 0
@@ -933,8 +933,6 @@ Text GLabel 5400 7450 0    50   Input ~ 0
 PC14
 Text GLabel 5400 7350 0    50   Input ~ 0
 PC15
-Text GLabel 5400 8850 0    50   Input ~ 0
-PA13
 Text GLabel 5400 7250 0    50   Input ~ 0
 PA0
 Text GLabel 5400 7050 0    50   Input ~ 0
@@ -982,4 +980,6 @@ Text GLabel 6400 7050 0    50   Input ~ 0
 VSYS
 Text GLabel 3650 1950 0    50   Input ~ 0
 VSYS
+Text GLabel 5400 8850 0    50   Input ~ 0
+PA13-SWDIO
 $EndSCHEMATC
